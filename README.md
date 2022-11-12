@@ -94,10 +94,10 @@ This Application has been developed to help the customer in processing their com
 - [x] Project Planing
 
 # 🧨PROJECT DEVELOPMENT 
-- [x] SPRINT 01
-- [x] SPRINT 02
-- [x] SPRINT 03
-- [x] SPRINT 04
+- [x] SPRINT-1
+- [x] SPRINT-2
+- [x] SPRINT-3
+- [x] SPRINT-4
 
 <hr>
 
